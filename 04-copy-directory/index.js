@@ -1,5 +1,4 @@
 const fs = require("fs").promises;
-const { type } = require("os");
 const path = require("path");
 
 const dirCur = path.join(__dirname, "files");
